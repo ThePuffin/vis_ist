@@ -1,0 +1,7 @@
+{
+  "name": "vis_ist",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
